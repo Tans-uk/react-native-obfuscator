@@ -1,6 +1,6 @@
 {
   "name": "@tansuk/react-native-obfuscator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A React Native library for code obfuscation using javascript-obfuscator",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
